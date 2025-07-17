@@ -1,0 +1,16 @@
+[submodule "lib/libcsp"]
+  path = lib/csp
+	url = git@github.com:infiniteorbits/si_libcsp_fork.git
+	branch = 1.0.1-io-stable 
+[submodule "lib/libparam"]
+  path = lib/param
+	url = git@github.com:infiniteorbits/azerstellar-mos-libparam.git
+	branch = 2.0.2-candidate
+[submodule "lib/slash"]
+  path = lib/slash
+	url = git@github.com:infiniteorbits/si_slash_fork.git
+	branch = 1.0.1-io-stable
+[submodule "lib/apm"]
+	path = lib/apm
+	url = git@github.com:infiniteorbits/si_libapm_fork.git
+	branch = 1.0.1-io-stable
